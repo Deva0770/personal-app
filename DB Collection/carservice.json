@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "5f70c6a2ba638001bc945e30"
+  },
+  "carno": "4XT144",
+  "name": "Deva",
+  "contactno": "9787886868",
+  "servicedetails": "oilchange,wheelalignment,detailing",
+  "price": 150,
+  "status": "Intake",
+  "indate": "09/28/2020",
+  "outdate": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70d01d98f51e0bbc78c999"
+  },
+  "carno": "5RT88T",
+  "name": "John",
+  "contactno": "9765756756",
+  "servicedetails": "oilchange,waterwash,detailing",
+  "price": 38,
+  "status": "WorkInProgress",
+  "indate": "9/27/2020",
+  "outdate": "9/27/2020",
+  "__v": 0
+}]

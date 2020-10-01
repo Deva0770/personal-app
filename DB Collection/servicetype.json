@@ -1,0 +1,37 @@
+[{
+  "_id": "01",
+  "servicetype": "Oil Change",
+  "keyname": "oilchange",
+  "price": 8,
+  "__v": 0
+},{
+  "_id": "02",
+  "servicetype": "Water Wash",
+  "keyname": "waterwash",
+  "price": 20,
+  "__v": 0
+},{
+  "_id": "03",
+  "servicetype": "Detailing",
+  "keyname": "detailing",
+  "price": 10,
+  "__v": 0
+},{
+  "_id": "04",
+  "servicetype": "Wheel alignment",
+  "keyname": "wheelalignment",
+  "price": 15,
+  "__v": 0
+},{
+  "_id": "05",
+  "servicetype": "Inspection",
+  "keyname": "inspection",
+  "price": 5,
+  "__v": 0
+},{
+  "_id": "06",
+  "servicetype": "Mufflers and Brakes",
+  "keyname": "mufflersandbrakes",
+  "price": 12,
+  "__v": 0
+}]
